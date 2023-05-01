@@ -1,0 +1,9 @@
+.vscode
+backend/venv/
+backend/**/__pycache__/
+frontend/
+frontend/dist/
+frontend/node_modules/
+frontend/public/
+frontend/src/
+frontend/src/assets/
